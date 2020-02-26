@@ -2,7 +2,7 @@
 
 ## Runtime Requirements
 
-PHP Version: ^5-^7
+PHP Version: ^5.0-^7.0
 
 ## Usage Instructions
 

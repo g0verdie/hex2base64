@@ -1,4 +1,4 @@
-# Hex to Base64 encoding String Conversion Utility
+# Hex to Base64 Encoding String Conversion Utility
 
 ## Runtime Requirements
 
